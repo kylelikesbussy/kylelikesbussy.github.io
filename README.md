@@ -1,4 +1,6 @@
-
+theme: jekyll-theme-minimal
+title: Lil shithead
+description: Bookmark this to keep an eye on my project updates!
 <script>
 function monke(json) 
 {
